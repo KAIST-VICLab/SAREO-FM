@@ -19,9 +19,7 @@
         <img src="https://img.shields.io/badge/🏠-Project%20Page-blue">
         </a>
         <img src="https://img.shields.io/badge/2026-arXiv-brightgreen">
-        <!-- ARXIV_BADGE_START -->
-        <img alt="arXiv (coming soon)" src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg">
-        <!-- ARXIV_BADGE_END -->
+        <!-- ARXIV_BADGE_START --><a href="https://arxiv.org/abs/2610.09317" target="_blank"><img src="https://img.shields.io/badge/arXiv-2610.09317-b31b1b.svg" alt="arXiv"></a><!-- ARXIV_BADGE_END -->
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KAIST-VICLab/SAREO-FM">
     </h4>
 </div>
@@ -167,7 +165,7 @@ If you find SAREO-FM useful, please consider citing:
 @article{do2026sareofm,
   title={SAREO-FM: Decoupled Semantic Supervision for SAR-EO Foundation Models},
   author={Do, Jeonghyeok and Kim, Munchurl},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2610.09317},
   year={2026}
 }
 ```
